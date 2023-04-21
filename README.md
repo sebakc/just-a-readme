@@ -1,1 +1,6 @@
 # just-a-readme
+La teoría Jobs to Be Done (Trabajos por hacer en español) es un enfoque de innovación y marketing que se enfoca en comprender las necesidades y deseos fundamentales que impulsan a las personas a adquirir un producto o servicio en particular. En lugar de centrarse en las características del producto, esta teoría busca entender qué tareas o trabajos específicos la persona está tratando de realizar y cómo el producto o servicio puede ayudar a satisfacer esas necesidades.
+
+Según esta teoría, los clientes no compran productos o servicios simplemente por sus características, sino porque tienen una tarea específica que desean realizar. Por ejemplo, una persona puede comprar un taladro no porque quiera un taladro en sí mismo, sino porque quiere hacer un agujero en la pared. Comprender los trabajos que los clientes están tratando de realizar puede ayudar a las empresas a desarrollar productos y servicios que satisfagan mejor las necesidades de los clientes.
+
+En resumen, la teoría Jobs to Be Done se centra en el estudio de las necesidades de los clientes y en cómo los productos y servicios pueden satisfacer esas necesidades de manera efectiva, en lugar de simplemente centrarse en las características del producto.
